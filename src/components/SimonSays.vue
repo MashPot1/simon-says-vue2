@@ -56,10 +56,22 @@
         ><input type="radio" name="mode" value="2" v-model="difficulty" />
       </div>
     </div>
-    <audio id="red-sound" src="../assets/sounds/1.mp3"></audio>
-    <audio id="blue-sound" src="../assets/sounds/2.mp3"></audio>
-    <audio id="yellow-sound" src="../assets/sounds/3.mp3"></audio>
-    <audio id="green-sound" src="../assets/sounds/4.mp3"></audio>
+    <audio
+      id="red-sound"
+      src="https://github.com/MashPot1/simon-says-vue2/blob/main/src/assets/sounds/1.mp3"
+    ></audio>
+    <audio
+      id="blue-sound"
+      src="https://github.com/MashPot1/simon-says-vue2/blob/main/src/assets/sounds/2.mp3"
+    ></audio>
+    <audio
+      id="yellow-sound"
+      src="https://github.com/MashPot1/simon-says-vue2/blob/main/src/assets/sounds/3.mp3"
+    ></audio>
+    <audio
+      id="green-sound"
+      src="https://github.com/MashPot1/simon-says-vue2/blob/main/src/assets/sounds/4.mp3"
+    ></audio>
   </div>
 </template>
 
