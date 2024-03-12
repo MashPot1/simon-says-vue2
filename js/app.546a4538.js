@@ -237,16 +237,16 @@
           new n.Ay({ render: (e) => e(y) }).$mount("#app");
       },
       991: function (e, t, i) {
-        e.exports = i.p + "/simon-says-vue2/media/1.4439a9af.mp3";
+        e.exports = i.p + "media/1.4439a9af.mp3";
       },
       3672: function (e, t, i) {
-        e.exports = i.p + "/simon-says-vue2/media/2.65e0df3b.mp3";
+        e.exports = i.p + "media/2.65e0df3b.mp3";
       },
       7277: function (e, t, i) {
-        e.exports = i.p + "/simon-says-vue2/media/3.f8db31a2.mp3";
+        e.exports = i.p + "media/3.f8db31a2.mp3";
       },
       9654: function (e, t, i) {
-        e.exports = i.p + "/simon-says-vue2/media/4.049c0e2c.mp3";
+        e.exports = i.p + "media/4.049c0e2c.mp3";
       },
     },
     t = {};
